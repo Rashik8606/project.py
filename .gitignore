@@ -1,0 +1,8 @@
+my_venv
+include
+__pycache__
+lib
+scripts
+afs.py
+rashik2.txt
+love_calculator
