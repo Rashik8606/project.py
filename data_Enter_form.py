@@ -55,8 +55,5 @@ class data_entry(tk.Tk):
 
         workbook.save('item.xlsx')
 
-
-
-
 app=data_entry()
 app.mainloop()
